@@ -1,0 +1,4 @@
+Model,CV Macro F1,Test Accuracy,Test Precision,Test Recall,Test Macro F1
+Random Forest,1.0,1.0,1.0,1.0,1.0
+SVM,1.0,1.0,1.0,1.0,1.0
+Gaussian Naive Bayes,1.0,1.0,1.0,1.0,1.0
